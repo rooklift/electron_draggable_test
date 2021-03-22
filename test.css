@@ -1,6 +1,7 @@
 body {
 	background-color: #080808;
 	color: #ffffff;
+	margin: 32px;
 }
 
 td.draggabletest {
